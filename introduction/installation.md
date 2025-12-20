@@ -2,6 +2,20 @@
 description: >-
   Learn how to install Git on your system using the command line or a desktop
   application, and understand which option fits your workflow.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Git installation

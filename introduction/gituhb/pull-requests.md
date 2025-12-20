@@ -6,12 +6,12 @@ Pull Requests allow developers to propose changes, review code, and discuss impr
 
 
 
-{% columns %}
-{% column %}
-<figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-12-16 121400.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-12-16 121345.png" alt=""></picture><figcaption></figcaption></figure>
+{% columns fullWidth="false" %}
+{% column width="50%" %}
+<figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-12-16 121400.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-12-16 121345.png" alt="screen shot from GitHub Merge Section - ITC"></picture><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column %}
-<figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-12-16 121925.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-12-16 121913.png" alt=""></picture><figcaption></figcaption></figure>
+{% column width="50%" %}
+<figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-12-16 121925.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-12-16 121913.png" alt="screen shot from GitHub Merge Section - ITC"></picture><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
