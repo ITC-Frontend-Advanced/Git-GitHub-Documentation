@@ -1,11 +1,13 @@
 ---
-description: What is a Repository and its Options
+description: >-
+  A repository is where your project lives, including its code, history, and
+  configuration.
 layout:
   width: wide
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -17,8 +19,6 @@ layout:
 ---
 
 # Repositories
-
-A repository is where your project lives, including its code, history, and configuration.
 
 <figure><picture><source srcset="../../.gitbook/assets/image (3).png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-12-16 113403.png" alt="Screen shot display GitHub Repositories Page - ITC"></picture><figcaption><p>A GitHub repository centralizes code and project information.</p></figcaption></figure>
 
