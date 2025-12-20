@@ -4,11 +4,18 @@
 
 ## Introduction
 
+* [What is Git?](introduction/what-is-git.md)
+* [What is GitHub?](introduction/what-is-github/README.md)
+  * [Repositories](introduction/what-is-github/repositories.md)
+  * [Pull Requests](introduction/what-is-github/pull-requests.md)
+  * [Issues](introduction/what-is-github/issues.md)
 * [Git installation](introduction/installation.md)
-* [GitHub](introduction/github/README.md)
-  * [Repositories](introduction/github/repositories.md)
-  * [Pull Requests](introduction/github/pull-requests.md)
-  * [Issues](introduction/github/issues.md)
+* [Git vs GitHub](introduction/git-vs-github.md)
+
+## Workflow
+
+* [Overview](workflow/overview.md)
+* [Working Directory](workflow/working-directory.md)
 
 ## Others
 
