@@ -1,5 +1,19 @@
 ---
 description: What is a Repository and its Options
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Repositories

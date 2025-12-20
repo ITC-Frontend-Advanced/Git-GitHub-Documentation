@@ -3,6 +3,20 @@ description: >-
   This documentation helps you understand what matters when using Git and GitHub
   in real projects. It focuses on key concepts, workflows, and habits, not every
   command or flag.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Getting Start
