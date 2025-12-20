@@ -24,11 +24,11 @@ layout:
 
 ### How to create Issues ?
 
-* [ ] In issues tap click in<a href="https://github.com/ITC-Frontend-Advanced/Join-the-Team/issues/new" class="button primary">New Issue</a>
+In issues tap click in <a href="https://github.com/ITC-Frontend-Advanced/Join-the-Team/issues/new" class="button primary">New Issue</a>
 
 <div align="center"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-12-20 120552.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-12-20 120821.png" alt="" width="563"></picture><figcaption></figcaption></figure></div>
 
-* [ ] Set you issue Title and Description
+* [x] Set you issue Title and Description
 
 <div align="center"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-12-20 120637.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-12-20 120657.png" alt="" width="563"></picture><figcaption></figcaption></figure></div>
 
