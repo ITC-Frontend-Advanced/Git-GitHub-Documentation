@@ -2,6 +2,20 @@
 description: >-
   Understand the difference between local and remote repositories and how push
   and pull connect them in the Git workflow.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Local vs Remote

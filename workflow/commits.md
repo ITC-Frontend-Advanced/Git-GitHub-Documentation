@@ -2,6 +2,20 @@
 description: >-
   Learn what a Git commit is and how commits create a clear and reliable history
   of your project.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Commits
