@@ -17,5 +17,4 @@ Git workflow describes the path your code follows:
 This flow repeats every day in real projects.
 {% endhint %}
 
-<img src="../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
-
+<figure><picture><source srcset="../.gitbook/assets/Diagrame_GitWorkflow_lightmod.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Diagrame_GitWorkflow (1).png" alt="Diagram Explain What is Git Workflow - ITC"></picture><figcaption></figcaption></figure>

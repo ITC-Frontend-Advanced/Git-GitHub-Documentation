@@ -36,7 +36,7 @@ Git works by:&#x20;
 
 Every developer has a **complete copy** of the project history.
 
-<img src="../.gitbook/assets/file.excalidraw.svg" alt="Git tracks project history using commits and branches." class="gitbook-drawing">
+<figure><picture><source srcset="../.gitbook/assets/Diagrame_GitVsGithub_lightmod.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Diagrame_GitVsGithub.png" alt="Diagram Explain What is Git and its work - ITC"></picture><figcaption><p>Git tracks project history using commits and branches.</p></figcaption></figure>
 
 {% hint style="danger" %}
 **Git is not GitHub**

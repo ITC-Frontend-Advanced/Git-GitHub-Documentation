@@ -38,4 +38,4 @@ Understanding the working directory helps you:
 Think of the working directory as your **draft area**. Nothing is permanent until you commit it.
 {% endhint %}
 
-<img src="../.gitbook/assets/file.excalidraw (3).svg" alt="" class="gitbook-drawing">
+<figure><picture><source srcset="../.gitbook/assets/Diagrame_WorkingDirectory_lightmod.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Diagrame_WorkingDirectory.png" alt="Diagram explain what is working Directory in Git - ITC "></picture><figcaption></figcaption></figure>

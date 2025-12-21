@@ -33,7 +33,7 @@ It allows you to:
 * Move between versions safely
 
 {% hint style="success" %}
-<sup><sub>Git works<sub></sup> <sup><sub> </sup><sup><sub>**locally**<sub></sup> <sup><sub> </sup><sup><sub>and does not require the internet.<sub></sup>
+Git works **locally** and does not require the internet.
 {% endhint %}
 {% endcolumn %}
 
@@ -49,7 +49,7 @@ It allows teams to:
 * Review code using pull requests
 
 {% hint style="warning" %}
-<sup>GitHub requires an internet connection.</sup>
+GitHub requires an internet connection.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -63,7 +63,7 @@ It allows teams to:
 | Manages code history | Manages collaboration |
 | Works offline        | Requires internet     |
 
-<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="Git manages versions locally, GitHub enables collaboration online." class="gitbook-drawing">
+<figure><picture><source srcset="../.gitbook/assets/Diagrame_GitVsGithub_lightmod (1).png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Diagrame_GitVsGithub (1).png" alt="Diagram Explain what the deference between Git and GitHub - ITC"></picture><figcaption><p>Git manages versions locally, GitHub enables collaboration online.</p></figcaption></figure>
 
 <details>
 
