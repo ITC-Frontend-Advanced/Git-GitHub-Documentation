@@ -70,7 +70,7 @@ Only **committed changes** are pushed to the remote repository.
 No commit = nothing to push.
 {% endhint %}
 
-<figure><picture><source srcset="../.gitbook/assets/Diagrame_LocalVsRemote_lightmod.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Diagrame_LocalVsRemote.png" alt=""></picture><figcaption></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/Diagrame_LocalVsRemote_lightmod.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/Diagrame_LocalVsRemote.png" alt="Diagram explain the deference between remote and local in GitHub with push and pull command - ITC"></picture><figcaption></figcaption></figure>
 
 #### For deeper details:
 
