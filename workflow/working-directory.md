@@ -1,5 +1,19 @@
 ---
 description: Understand where files are edited and how Git detects changes.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Working Directory

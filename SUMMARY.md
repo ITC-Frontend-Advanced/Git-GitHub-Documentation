@@ -16,7 +16,11 @@
 
 * [Overview](workflow/overview.md)
 * [Working Directory](workflow/working-directory.md)
+* [Staging Area](workflow/staging-area.md)
+* [Commits](workflow/commits.md)
+* [Local vs Remote](workflow/local-vs-remote.md)
 
 ## Others
 
 * [README](others/readme.md)
+* [Commit Message](others/commit-message.md)
