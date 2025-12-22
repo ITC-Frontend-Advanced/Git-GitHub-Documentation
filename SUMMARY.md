@@ -24,3 +24,7 @@
 
 * [README](others/readme.md)
 * [Commit Message](others/commit-message.md)
+
+## Tasks
+
+* [Basic Workflow Task](tasks/basic-workflow-task.md)
