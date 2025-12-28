@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Getting Start](README.md)
+* [Getting Started](README.md)
 
 ## Introduction
 
