@@ -1,4 +1,4 @@
-hiiiiiiiii---
+---
 description: >-
   This documentation helps you understand what matters when using Git and GitHub
   in real projects. It focuses on key concepts, workflows, and habits, not every
