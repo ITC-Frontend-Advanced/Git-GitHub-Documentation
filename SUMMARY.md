@@ -28,3 +28,8 @@
 ## Tasks
 
 * [Basic Workflow Task](tasks/basic-workflow-task.md)
+
+## Courses
+
+* [Git & GitHub Workflow](courses/part-1.md)
+* [Git & GitHub Merging](courses/part-2.md)
