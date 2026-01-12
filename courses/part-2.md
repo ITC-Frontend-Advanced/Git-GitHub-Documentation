@@ -24,3 +24,5 @@ layout:
 * **Leader :** abdellani abdeslam
 
 {% embed url="https://drive.google.com/file/d/1XiwnnyvOgpfFrFimzVyblboYDPTApbGy/preview" %}
+
+<p align="center"><a href="https://docs.elorabiabderraouf.dev/documentation/git-github/courses/part-1" class="button secondary" data-icon="chevrons-left">Previous Lesson</a></p>
